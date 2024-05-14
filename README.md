@@ -8,5 +8,3 @@ Nhập danh sách từ từ vào ứng dụng và hiển thị random các từ 
 - Chạy ứng dụng
 
 ![alt](https://github.com/VoNhuCong/FlashCard/blob/main/docs/loading.jpg)
-![alt](https://github.com/VoNhuCong/FlashCard/blob/main/docs/library.jpg)
-
