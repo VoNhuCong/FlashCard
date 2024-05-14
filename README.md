@@ -1,5 +1,8 @@
-# FlashCard
-Chức năng: Nhập danh sách từ từ vào ứng dụng và hiển thị random các từ trong danh sách đó.
+# Flutter
+# Chức năng
+Nhập danh sách từ từ vào ứng dụng và hiển thị random các từ trong danh sách đó.
 
-# Công nghệ
-Flutter
+# Sử dụng
+- Tạo project flutter bằng android studio
+- Thay thế những folders/files trong project bằng những folders/files trên
+- Chạy ứng dụng
